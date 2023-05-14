@@ -31,3 +31,7 @@ for people globally. With their advanced features and capabilities, _smart dustb
 Platform:
 1. Arduino IDE - For coding
 2. Thing Speak cloud - for data analytics
+
+**Project status**: Currently working on other features, a notification feature using webhooks. A notification is sent when dustbin is filled. And, a web server to display the analytics recieved from the hardware.
+
+**P.S:** My aim for this project is to create an automatic and easily manageable waste through smart dustbin at places like hospitals, Public places, airport etc.
